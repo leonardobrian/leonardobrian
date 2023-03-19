@@ -19,6 +19,7 @@
 
 ##
 
+![Snake animation](https://github.com/leonardobrian/leonardobrian/blob/output/github-contribution-grid-snake.svg)
 
 
 
