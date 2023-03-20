@@ -1,5 +1,3 @@
-### Olá! Eu sou Leonardo Brian
-
 <p align="center">
   <img src="https://github.com/leonardobrian/leonardobrian/raw/main/Assets/Banner_Git_Ingles.gif" alt="Hi, I'm Leonardo 👋 I'm a Brazilian developer and data scientist 🚀">
 </p>
@@ -22,11 +20,6 @@
 </div>
 
 ##
-
-![Snake animation](https://github.com/leonardobrian/leonardobrian/blob/output/github-contribution-grid-snake.svg)
-
-
-
 
 <!--
 **leonardobrian/leonardobrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
