@@ -1,5 +1,9 @@
 ### Olá! Eu sou Leonardo Brian
 
+<p align="center">
+  <img src="https://github.com/leonardobrian/leonardobrian/raw/main/Assets/Banner_Git_Ingles.gif" alt="Hi, I'm Leonardo 👋 I'm a Brazilian developer and data scientist 🚀">
+</p>
+
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardobrian&show_icons=true&theme=transparent)
